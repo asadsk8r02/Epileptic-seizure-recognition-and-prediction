@@ -7,8 +7,8 @@
 * Outcome: Achieved an exceptional classification accuracy of 100%, demonstrating the efficacy of the approach.
 
 ## Epileptic Seizure Detection System Using K-means Clustering on EEG Data.
-● Objective: Created a system to identify epileptic seizures using machine learning techniques.
-● Data Standardization: Standardized raw EEG data to ensure consistency across samples, facilitating more reliable analysis.
-● Clustering Algorithm: Utilized K-means clustering to group EEG data into seizure and non-seizure categories.
-● Classification: Further classified the standardized EEG data, leveraging the K-means clustering algorithm for pattern recognition.
-● Outcome: Attained a high classification accuracy of 98.84%, validating the system's capability in detecting epileptic seizures effectively.
+* Objective: Created a system to identify epileptic seizures using machine learning techniques.
+* Data Standardization: Standardized raw EEG data to ensure consistency across samples, facilitating more reliable analysis.
+* Clustering Algorithm: Utilized K-means clustering to group EEG data into seizure and non-seizure categories.
+* Classification: Further classified the standardized EEG data, leveraging the K-means clustering algorithm for pattern recognition.
+* Outcome: Attained a high classification accuracy of 98.84%, validating the system's capability in detecting epileptic seizures effectively.

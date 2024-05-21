@@ -1,0 +1,2 @@
+•	Developed a method for automatic seizure recognition and prediction based on the use of ordinal patterns in EEG. Preprocessed the raw EEG data, performed sequential segmentation, and selected features using PCA. Used Support Vector Machine (SVM) classifier to classify the data, resulting in an improved accuracy of 100%.
+•	Devised a system that utilizes K-means clustering to identify the presence of epileptic seizures in EEG. The raw EEG data was standardized and further classified using K-means clustering yielding 98.84% accuracy.

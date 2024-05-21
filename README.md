@@ -1,10 +1,10 @@
 ## Automated Seizure Recognition and Prediction Using Ordinal Patterns in EEG.
-● Objective: Developed a cutting-edge method for automatic seizure recognition and prediction.
-● Data Preprocessing: Handled raw EEG data preprocessing, ensuring clean and usable data for analysis.
-● Segmentation: Performed sequential segmentation of EEG data to isolate relevant signal patterns.
-● Feature Selection: Applied Principal Component Analysis (PCA) to select the most significant features, enhancing the model's efficiency and accuracy.
-● Classification: Implemented a Support Vector Machine (SVM) classifier to distinguish between seizure and non-seizure events.
-● Outcome: Achieved an exceptional classification accuracy of 100%, demonstrating the efficacy of the approach.
+* Objective: Developed a cutting-edge method for automatic seizure recognition and prediction.
+* Data Preprocessing: Handled raw EEG data preprocessing, ensuring clean and usable data for analysis.
+* Segmentation: Performed sequential segmentation of EEG data to isolate relevant signal patterns.
+* Feature Selection: Applied Principal Component Analysis (PCA) to select the most significant features, enhancing the model's efficiency and accuracy.
+* Classification: Implemented a Support Vector Machine (SVM) classifier to distinguish between seizure and non-seizure events.
+* Outcome: Achieved an exceptional classification accuracy of 100%, demonstrating the efficacy of the approach.
 
 ## Epileptic Seizure Detection System Using K-means Clustering on EEG Data.
 ● Objective: Created a system to identify epileptic seizures using machine learning techniques.
